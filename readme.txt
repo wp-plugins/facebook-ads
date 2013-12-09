@@ -1,17 +1,17 @@
 === Facebook Ads Tool ===
 Contributors: atajsekandar 
-Tags: facebook ads, Facebook advertising, Facebook marketing, ads, social ads, Facebook campaigns, facebook, social, promotion, advertising, online, marketing
+Tags: Facebook, Ad, Ads, advertising, advertisment, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Facebook, Social, Promotion, online, marketing, plugin, tool, widget, sidebar, admin, widget, post, page
 Donate Link: N/A
 Requires at least: 3.0.0
 Tested up to: 3.7
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
 
-The plugin that makes it easy to create Ads on Facebook that drive new customers. Promote pages on your website directly from your Wordpress admin.
+The plugin that lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
 
 
 [Sign up. It's free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
@@ -201,16 +201,10 @@ Using Wishpond, Facebook Ads are extremely easy and fast to set up. If you ever 
 
 == Changelog ==
 
-= 1.1 =
-* Automatic signup so that you don't need to manage extra signup information. Improved sweepstakes and offers. Better tracking.
-
 = 1.0 =
 * The first version. The big bang. Where it all began. 
 
 == Upgrade Notice ==
-
-= 1.1 =
-* Automatic signup so that you don't need to manage extra signup information. Improved sweepstakes and offers. Better tracking.
 
 = 1.0 =
 * The first version. The big bang. Where it all began. 
