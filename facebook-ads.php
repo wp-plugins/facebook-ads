@@ -2,7 +2,7 @@
   /**
    * Plugin Name: Facebook Ads Tool
    * Plugin URI: http://wishpond.com
-   * Description: The plugin that lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
+   * Description: This plugin lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
    * Version: 1.0
    * Author: Wishpond
    * Text Domain: facebook-ads
