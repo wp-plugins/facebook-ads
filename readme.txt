@@ -63,7 +63,7 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 [Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
-**Contest & Promotion Apps Included in  Wordpress Plugin:**
+**Contest & Promotion Apps also Included in  Wordpress Plugin:**
 
 
 **[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")** 
@@ -179,7 +179,7 @@ No. We automatically create a Wishpond account for you using the wordpress admin
 
 = How much does it cost to run an Ad? =
 
-You only pay when people click on your Ads.
+You only pay when people click on your Ads, and you can allocate any budget you seee fit, to your Ad Campaign.
 
 = What kind of support do I get? =
 
