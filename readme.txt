@@ -166,7 +166,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 == Installation ==
 
 1. Download and unzip the Facebook Ads Tool plugin.
-2. Upload `facebook-ads` folder to the `/wp-content/plugins/` directory.
+2. Upload the `facebook-ads` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. You will now have a new Facebook Ads link in your admin menu, and a new set of widgets on all pages and posts that let you create facebook ads directly from pages or a posts
 5. From there click 'Create' and you will be able to choose to create your first Facebook Ad. 
