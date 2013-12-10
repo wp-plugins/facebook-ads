@@ -179,7 +179,7 @@ No. We automatically create a Wishpond account for you using the wordpress admin
 
 = How much does it cost to run an Ad? =
 
-You only pay when people click on your Ads, and you can allocate any budget you seee fit, to your Ad Campaign.
+You only pay when people click on your Ads, and you can allocate any budget you see fit to your Ad Campaign.
 
 = What kind of support do I get? =
 
