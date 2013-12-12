@@ -14,9 +14,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
 
 
-[Sign up. It's free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
-
-
 **Why use Wishpond’s Facebook Ads plugin?**
 
 - Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
@@ -58,9 +55,6 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 - Combat Facebook Ad Fatigue by analyzing your click-through rate over time.
 
 - Compare multiple Ad variations to see which are giving you the best return on investment.
-
-
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
 **Contest & Promotion Apps also Included in  Wordpress Plugin:**
@@ -105,9 +99,6 @@ Run and promote coupons on Facebook Pages, Twitter, your Wordpress site & mobile
 Create a store-wide or item discount coupon or a group-buy offer. Social Offers is integrated directly with PayPal for automated payment. Use custom coupon codes for unique coupon redemption.
 
 
-[Sign up. It's free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
-
-
 **Email Marketing Automation Tool Included in Wishpond’s Wordpress Plugin:**
 The tool that makes it easy to send an automated series of highly targeted, personalized emails to your leads to turn them into customers.
 
@@ -117,9 +108,6 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 - Send to Lists: Send emails when contacts are added to specific lists.
 
 - Personalize: Personalize content in each email based on contact details & form field responses.
-
-
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
 **Highlighted Features Included with Each Contest & Promotion App**
@@ -143,9 +131,6 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 **Satisfy Facebook Policies:** Each App is built within all requirements in Facebook’s Promotions Guidelines. 
 
 **Built-in Voting:** Each app has built-in voting buttons and counters to maximize sharing and engagement.
-
-
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
 **Customization Included with Each Contest & Promotion App**
