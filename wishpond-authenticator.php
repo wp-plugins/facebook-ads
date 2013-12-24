@@ -49,12 +49,15 @@
     {
       $handler = curl_init();
 
+      foreach($postfields as $field => $val)
+      {
+        $url = self::add_url_param( $url, $field, $val );
+      }
       $curlConfig = array(
         CURLOPT_URL            => $url,
-        CURLOPT_POST           => true,
+        CURLOPT_POST           => false,
         CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_CONNECTTIMEOUT => 10,
-        CURLOPT_POSTFIELDS     => $postfields,
+        CURLOPT_CONNECTTIMEOUT => 30,
       );
       curl_setopt_array($handler, $curlConfig);
       $result = curl_exec( $handler );

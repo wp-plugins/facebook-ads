@@ -40,6 +40,7 @@
   function facebook_ads_dashboard_page_display()
   {
     $iframe_url = WishpondAuthenticator::wishpond_auth_url_with_token("/central/ad_campaigns");
+
     wp_enqueue_style( "FacebookAdsMainCss" );
     $html .= '<div class="wrap facebook_ads_iframe_holder">';
         $html .= '<iframe id="wishpond_facebook_ads_iframe" src="' . $iframe_url . '">
