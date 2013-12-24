@@ -33,8 +33,8 @@
   define('WISHPOND_SIGNUP_URL', WISHPOND_SITE_URL . "/central/merchant_signups/new/");
 
   # Used for authenticating every request, and redirecting to the proper location on central
-  define('WISHPOND_FACEBOOK_ADS_AUTH_WITH_TOKEN_URL', WISHPOND_SITE_URL."/auth_with_wordpress");
-  define('WISHPOND_FACEBOOK_ADS_GET_AUTH_TOKEN_URL', WISHPOND_SITE_URL.'/get_wordpress_auth_token');
+  define('WISHPOND_FACEBOOK_ADS_AUTH_WITH_TOKEN_URL', WISHPOND_SITE_URL . "/central/sessions/auth_with_wordpress");
+  define('WISHPOND_FACEBOOK_ADS_GET_AUTH_TOKEN_URL', WISHPOND_SITE_URL.'/central/sessions/get_wordpress_auth_token');
 
   /*
   * Wishpond Ads
