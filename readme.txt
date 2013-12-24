@@ -3,7 +3,7 @@ Contributors: atajsekandar
 Tags: Facebook, Ad, Ads, advertising, advertisment, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Facebook, Social, Promotion, online, marketing, plugin, tool, widget, sidebar, admin, widget, post, page
 Donate Link: N/A
 Requires at least: 3.0.0
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
