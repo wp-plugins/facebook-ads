@@ -4,7 +4,7 @@ Tags: Facebook, Ad, Ads, advertising, advertisment, advertise, Facebook Ads, Fac
 Donate Link: N/A
 Requires at least: 3.0.0
 Tested up to: 3.7
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -191,5 +191,5 @@ Using Wishpond, Facebook Ads are extremely easy and fast to set up. If you ever 
 
 == Upgrade Notice ==
 
-= 1.0 =
-* The first version. The big bang. Where it all began. 
+= 1.1 =
+* Authentication improved
