@@ -190,9 +190,9 @@ Using Wishpond, Facebook Ads are extremely easy and fast to set up. If you ever 
 * The first version. The big bang. Where it all began. 
 
 = 1.1 =
-* Authentication improved
+* Improved authentication to Wishpond to allow easier use of the plugin
 
 == Upgrade Notice ==
 
 = 1.1 =
-* Authentication improved
+* Improved authentication to Wishpond to allow easier use of the plugin
