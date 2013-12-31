@@ -29,6 +29,7 @@
   /*
   * Wishpond Globals
   */
+  
   define('WISHPOND_SITE_URL', "https://www.wishpond.com");
   define('WISHPOND_SIGNUP_URL', WISHPOND_SITE_URL . "/central/merchant_signups/new/");
 
