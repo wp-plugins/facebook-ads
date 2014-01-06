@@ -1,6 +1,6 @@
 === Facebook Ads Tool ===
 Contributors: atajsekandar 
-Tags: Facebook, Ad, Ads, advertising, advertisment, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Facebook, Social, Promotion, online, marketing, plugin, tool, widget, sidebar, admin, widget, post, page
+Tags: Facebook, Ad, Ads, advertising, advertisment, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Social, Promotion, online, marketing, plugin, tool, widget, sidebar, admin, widget, post, page
 Donate Link: N/A
 Requires at least: 3.0.0
 Tested up to: 3.8
