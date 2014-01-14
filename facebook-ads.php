@@ -29,13 +29,27 @@
   /*
   * Wishpond Globals
   */
+
+  if ( ! defined( 'WISHPOND_SITE_URL' ) )
+  {
+    define('WISHPOND_SITE_URL', "https://www.wishpond.com");
+  }
   
-  define('WISHPOND_SITE_URL', "https://www.wishpond.com");
-  define('WISHPOND_SIGNUP_URL', WISHPOND_SITE_URL . "/central/merchant_signups/new/");
+  if ( ! defined( 'WISHPOND_SIGNUP_URL' ) )
+  {
+    define('WISHPOND_SIGNUP_URL', WISHPOND_SITE_URL . "/central/merchant_signups/new/");
+  }
 
   # Used for authenticating every request, and redirecting to the proper location on central
-  define('WISHPOND_FACEBOOK_ADS_AUTH_WITH_TOKEN_URL', WISHPOND_SITE_URL . "/central/sessions/auth_with_wordpress");
-  define('WISHPOND_FACEBOOK_ADS_GET_AUTH_TOKEN_URL', WISHPOND_SITE_URL.'/central/sessions/get_wordpress_auth_token');
+  if ( ! defined( 'WISHPOND_FACEBOOK_ADS_AUTH_WITH_TOKEN_URL' ) )
+  {
+    define('WISHPOND_FACEBOOK_ADS_AUTH_WITH_TOKEN_URL', WISHPOND_SITE_URL . "/central/sessions/auth_with_wordpress");
+  }
+  
+  if ( ! defined( 'WISHPOND_FACEBOOK_ADS_GET_AUTH_TOKEN_URL' ) )
+  {
+    define('WISHPOND_FACEBOOK_ADS_GET_AUTH_TOKEN_URL', WISHPOND_SITE_URL.'/central/sessions/get_wordpress_auth_token');
+  }
 
   /*
   * Wishpond Ads
