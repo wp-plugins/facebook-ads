@@ -159,17 +159,11 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 == Frequently Asked Questions ==
 
-= Do I need to have a Wishpond account set up already? =
+= I have a question, what do I do? =
 
-No. We automatically create a Wishpond account for you using the wordpress administrator e-mail. You can then change your e-mail and password at any time.
+Don't hesitate to contact us! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
-= How much does it cost to run an Ad? =
-
-You only pay when people click on your Ads, and you can allocate any budget you see fit to your Ad Campaign.
-
-= What kind of support do I get? =
-
-Using Wishpond, Facebook Ads are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
+This plugin is easy to use, but you can always talk to us, we'd love to help out.
 
 == Screenshots ==
 
