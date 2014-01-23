@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create Facebook Ads for any post or page, at the click of a button! Easily monitor and reschedule your ads as you wish. This plugin works great with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
+> Create Facebook Ads for your posts and pages at the click of a button! Easily monitor and reschedule your ads as you wish. This plugin works great with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
 This plugin lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
 
