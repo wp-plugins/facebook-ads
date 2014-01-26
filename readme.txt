@@ -177,8 +177,6 @@ This plugin is easy to use, and you can always talk to us, we'd love to help out
 8. Contact Database
 9. Campaign Analytics
 
-
-
 == Changelog ==
 
 = 1.0 =
