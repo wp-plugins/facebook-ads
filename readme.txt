@@ -1,6 +1,6 @@
 === Facebook Ads Tool ===
 Contributors: atajsekandar, cosminatanasiu
-Tags: Facebook, Ad, Ads, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture
+Tags: Facebook, Ad, Ads, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads hosting
 
 Donate Link: N/A
 Requires at least: 3.0.0
@@ -147,7 +147,6 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 **Custom Header Banner:** Upload a custom banner image to fit your brand. 
 
 **Choose Multiple Winners:** Each app is built to allow you to have one or multiple winners of your photo contest.
-
 
 == Installation ==
 
