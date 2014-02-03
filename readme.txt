@@ -15,6 +15,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
 
+
+
 **Why use Wishpond’s Facebook Ads plugin?**
 
 - Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
@@ -24,6 +26,7 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 - Find New Customers: Advertise to people with similar tastes & interests as your current customers.
 
 
+
 **Let Wishpond’s Ad Buddy system Optimize your Target Audience.**
 
 - Let our Ad Buddy system choose the best audience for your Ad based on your business.
@@ -31,6 +34,7 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 - Self-Optimizing Ads see who is clicking & converting to optimize your audience and Ad Spend over time.
 
 - Advanced Targeting Options are available to choose your perfect target audience on your own.
+
 
 
 **Target your Contact List on Facebook.**
@@ -47,6 +51,7 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 - Made for First-Time Users. We make it easy to build an Ad, even if it’s your first time. 
 - Built in Conversion Tracking on all Wishpond contests makes it easy to see your Ad’s conversion rate and return on investment. 
 - Get help from the experts. Wishpond’s Ad team is standing by to help you create the best Ad for your business.
+
 
 
 **Track Performance with Real-Time Reporting.**
