@@ -95,9 +95,12 @@
   * List & Load plugin files
   */
   $PLUGIN_FILES = array(
+    /* What we use to store options in wordpress */
     "wishpond-storage.php",
     "wishpond-helpers.php",
+    /* A pseudo-model used for authentication */
     "wishpond-key.php",
+    /* The class that performs the authentication */
     "wishpond-authenticator.php",
     "register-assets.php",
     "menu.php",
