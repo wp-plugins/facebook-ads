@@ -18,8 +18,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin lets you create Ads on Facebook that drive new customers. Promote your posts and pages on Facebook directly from your Wordpress admin.
 
 
-## What you get
-
 **Why use Wishpond’s Facebook Ads plugin?**
 
 - Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
@@ -62,8 +60,6 @@ This plugin lets you create Ads on Facebook that drive new customers. Promote yo
 
 - Compare multiple Ad variations to see which are giving you the best return on investment.
 
-
-## Also included in this plugin
 
 **Contest & Promotion Apps also Included in  Wordpress Plugin:**
 
