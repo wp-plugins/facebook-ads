@@ -1,6 +1,6 @@
 === Facebook Ads Tool ===
 Contributors: atajsekandar, cosminatanasiu
-Tags: Ads, Facebook, Ad, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, integration, simple, easy
+Tags: Ads, Facebook, Ad, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, integration, simple, easy, run ads,
 
 Donate Link: N/A
 Requires at least: 3.0.0
@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 > Create Facebook Ads for your posts and pages with the click of a button! Monitor and schedule your ads as you wish.
+
 
 > This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
