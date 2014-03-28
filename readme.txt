@@ -13,8 +13,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Create Facebook Ads for your posts and pages with the click of a button! Monitor and schedule your ads as you wish.
 
+> The [Ads Campaigns](http://wordpress.org/plugins/wishpond-social-campaigns/ "create Google Adwords and Facebook Ads campaigns") plugin lets you create Google Ads as well as Facebook Ads directly from your dashboard.
 
-> This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
+This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
 This plugin lets you create Ads on Facebook that drive new customers.
 
