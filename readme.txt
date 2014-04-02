@@ -171,12 +171,12 @@ Contact us Anytime! If you ever need a question, you can always call us at: `1-8
 
 == Screenshots ==
 
-1. Creating a Facebook Ad in your Wordpress Admin (Part 1)
-2. Creating a Facebook Ad in your Wordpress Admin (Part 2)
-3. Creating a Facebook Ad directly from a wordpress page
+1. Create a Facebook Ad in your Wordpress Admin (Part 1)
+2. Create a Facebook Ad in your Wordpress Admin (Part 2)
+3. Create a Facebook Ad directly from a wordpress page
 4. Your Ad on Facebook
 5. Live Social Contests & Promotions
-6. Creating a Sweepstakes in your Wordpress Admin
+6. Create a Contest or Promotion in your Wordpress Admin
 7. Email Automation Campaigns
 8. Contact Database
 9. Campaign Analytics
