@@ -17,6 +17,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
+### How it works
+
+1. Edit a post/page
+2. Click "Create a Facebook Ad" button
+3. Edit Ad text
+4. View analytics
+
 This plugin lets you create Ads on Facebook that drive new customers.
 
 Promote your posts and pages on Facebook directly from your Wordpress admin interface.
