@@ -21,7 +21,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 1. Edit a post/page
 2. Click "Create a Facebook Ad" button
-3. Edit Ad text
+3. Edit Ad url, text and image
 4. View analytics
 
 This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks.
