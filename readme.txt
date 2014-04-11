@@ -24,9 +24,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Edit Ad url, text and image
 4. View analytics
 
-This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks.
-
 Promote your posts and pages on Facebook directly from your Wordpress admin interface.
+
+This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks. This plugin comes lets you use an "Ad Buddy" system that can automatically optimize your Ads for the best results
 
 
 **Why use Wishpond’s Facebook Ads plugin?**
