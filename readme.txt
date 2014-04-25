@@ -19,7 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ### How it works
 
-1. Edit a post/page
+1. Edit a page/post
 2. Click "Create a Facebook Ad" button
 3. Edit Ad url, text and image
 4. View analytics
