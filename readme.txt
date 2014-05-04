@@ -24,7 +24,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Edit Ad url, text and image
 4. View analytics
 
-This plugin comes lets you use an **Ad Buddy** that can **automatically optimize your Ads** to get the best results
+This plugin comes lets you use the **Ad Buddy** that can **automatically optimize your Ads** to get the best results
 
 Promote your posts and pages on Facebook directly from your Wordpress admin interface.This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks.
 
