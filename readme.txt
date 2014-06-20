@@ -26,7 +26,7 @@ This plugin not only lets you create great Facebook Ads, but it can also automat
 3. Edit Ad url, text and image
 4. View analytics
 
-This plugin also lets you **automatically optimize your Ads** for better conversions, through the **Ad Buddy** system
+This plugin also lets you **automatically optimize your Ads** for better conversions, through the **Ad Buddy** system.
 
 Promote your posts and pages on Facebook directly from your Wordpress admin interface.This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks.
 
