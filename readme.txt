@@ -28,7 +28,7 @@ This plugin not only lets you create great Facebook Ads, but it can also automat
 
 This plugin also lets you **automatically optimize your Ads** for better conversions, with the **Ad Buddy** system.
 
-Promote your posts and pages on Facebook directly from your Wordpress admin interface.This plugin lets you create Ads on Facebook that drive new customers, with just a few clicks.
+Promote your posts and pages on Facebook directly from your Wordpress admin interface.This plugin lets you create Ads on Facebook that drive new customers with just a few clicks.
 
 
 **Why use Wishpond’s Facebook Ads plugin?**
@@ -154,8 +154,6 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 **Custom Form Fields:** Need to collect more info from entrants than email address? Add any fields you like and download in an excel file. 
 
 **Customizable CSS:** Change every aspect of each app’s CSS stylesheet to fit your brand. 
-
-**Translated in 35 Languages:** Each app has been translated into 35 languages, including all user-facing text and share messages.
 
 **Like-Gate Option:** You can require that users “Like” your Facebook Page before they can enter your contest. 
 
