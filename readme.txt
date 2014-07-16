@@ -191,11 +191,11 @@ If you ever have a question, you can always call us at: `1-800-921-0167`, email 
 
 == Changelog ==
 
-= 1.0 =
-* The first version. The big bang. Where it all began. 
-
 = 1.1 =
 * Improved authentication to Wishpond to allow easier use of the plugin
+
+= 1.0 =
+* The first version. The big bang. Where it all began. 
 
 == Upgrade Notice ==
 
