@@ -17,7 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
-This plugin not only lets you create great Facebook Ads, but it can also automatically optimize your ads for better conversions.
+This plugin not only lets you create great Facebook Ads, and automatically optimize them for much better results.
 
 ### How it works
 
@@ -28,7 +28,7 @@ This plugin not only lets you create great Facebook Ads, but it can also automat
 
 This plugin also lets you **automatically optimize your Ads** for better conversions, with the **Ad Buddy** system.
 
-Promote your posts and pages on Facebook directly from your Wordpress admin interface.This plugin lets you create Ads on Facebook that drive new customers with just a few clicks.
+Promote your posts and pages on Facebook directly from your Wordpress admin interface. This plugin lets you create Ads on Facebook that drive new customers with just a few clicks.
 
 
 **Why use Wishpond’s Facebook Ads plugin?**
