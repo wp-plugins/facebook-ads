@@ -73,6 +73,7 @@ Promote your posts and pages on Facebook directly from your Wordpress admin inte
 
 - Compare multiple Ad variations to see which are giving you the best return on investment.
 
+[Check out what our customers said about us](http://corp.wishpond.com/reviews/ "Customer Reviews")
 
 **Contest & Promotion Apps also Included in  Wordpress Plugin:**
 
