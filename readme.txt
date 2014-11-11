@@ -21,7 +21,7 @@ This plugin lets you create great Facebook Ads, and also lets you automatically 
 
 ### How it works
 
-1. Edit a page/post
+1. Create/Edit a page/post
 2. Click "Create a Facebook Ad" button
 3. Edit Ad url, text and image
 4. View analytics
