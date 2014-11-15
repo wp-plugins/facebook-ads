@@ -28,7 +28,7 @@ Create great Facebook Ads; automatically optimize your ads for amazing results.
 
 This plugin also lets you **automatically optimize your Ads** for better conversions, through our **Ad Buddy** system.
 
-Promote your posts and pages on Facebook directly from your Wordpress admin interface. This plugin lets you create Ads on Facebook that drive new customers with just a few clicks.
+Promote your posts and pages on Facebook directly from your Wordpress admin interface. Create Ads on Facebook that drive new customers with just a few clicks!
 
 
 **Why use Wishpond’s Facebook Ads plugin?**
