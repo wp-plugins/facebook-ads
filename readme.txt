@@ -182,7 +182,7 @@ If you have a question, you can always email us at [support@wishpond.com](mailto
 
 1. Create a Facebook Ad in your Wordpress Admin (Part 1)
 2. Create a Facebook Ad in your Wordpress Admin (Part 2)
-3. Create a Facebook Ad directly from a wordpress page
+3. Create a Facebook Ad from a wordpress page
 4. Your Ad on Facebook
 5. Live Social Contests & Promotions
 6. Create a Contest or Promotion in your Wordpress Admin
