@@ -23,7 +23,7 @@ Create Facebook Ads in seconds! Automatically optimize your ads for amazing resu
 
 1. Create/Edit a page/post
 2. Click "Create a Facebook Ad" button
-3. Edit Ad url, text and image
+3. Edit Ad URL, text and image
 4. View analytics
 
 This plugin also lets you **automatically optimize your Ads** for better conversions, through our **Ad Buddy** system.
