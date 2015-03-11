@@ -13,8 +13,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Create Facebook Ads for your posts and pages directly from Wordpress! Use the AdBuddy tool to automatically optimize your ads for the best results and lowest price.
 
-> You can use the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "create Google Ads and Facebook Ads") plugin to create ads both on Facebook and on Google.
-
 > This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improve conversion rates on your website.
 
 Create Facebook Ads in seconds! Automatically optimize your ads for amazing results.
