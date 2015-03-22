@@ -1,6 +1,6 @@
 === Facebook Ads Tool ===
 Contributors: atajsekandar, cosminatanasiu
-Tags: Ads, Facebook, Ad, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Embed, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, manage ads, integration, simple, easy, run, quick, run ads, create ads, automatic, optimize, ad optimization, automatic optimization
+Tags: Ads, Facebook, Ad, advertising, advertisment, advertisments, advertise, Facebook Ads, Facebook Advertising, Facebook Marketing, Social Ads, Embed, Facebook Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, manage ads, integration, simple, easy, run, quick, run ads, create ads, automatic, optimize, ad optimization, automatic optimization, online ads
 
 Donate Link: N/A
 Requires at least: 3.0.0
@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Create Facebook Ads for your posts and pages directly from Wordpress! Use the AdBuddy tool to automatically optimize your ads for the best results and lowest price.
 
-> This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improve conversion rates on your website.
+> This plugin can be easily integrated with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improve conversion rates on your website.
 
 Create Facebook Ads in seconds! Automatically optimize your ads for amazing results.
 
