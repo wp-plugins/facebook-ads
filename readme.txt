@@ -38,9 +38,9 @@ Promote your posts and pages on Facebook directly from your Wordpress admin inte
 - Find New Customers: Advertise to people with similar tastes & interests as your current customers.
 
 
-**Let Wishpond’s Ad Buddy system Optimize your Target Audience.**
+**Let our Ad Buddy system Optimize your Target Audience.**
 
-- Let our Ad Buddy system choose the best audience for your Ad based on your business.
+- Let Wishpond's Ad Buddy system choose the best audience for your Ad based on your business.
 
 - Self-Optimizing Ads see who is clicking & converting to optimize your audience and Ad Spend over time.
 
@@ -174,7 +174,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 Contact us Anytime!
 
-If you have a question, you can always email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you through this plugin.
+If you have a question, click here [http://corp.wishpond.com/contact-us](http://corp.wishpond.com/contact-us "Wishpond Support") or just use the live chat available to you through this plugin.
 
 == Screenshots ==
 
